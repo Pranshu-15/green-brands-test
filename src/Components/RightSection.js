@@ -102,7 +102,7 @@ const RightSection = () => {
       alt='toggle'
       className='absolute bottom-0 right-40 text-pink-600 '
       />
-      <p className='text-xs bottom-0 text-pink-500 absolute left-48'>text</p>
+      <p className='text-xs bottom-0 text-pink-500 absolute right-48'>text</p>
       <input
         type="text"
         value={userInput}
